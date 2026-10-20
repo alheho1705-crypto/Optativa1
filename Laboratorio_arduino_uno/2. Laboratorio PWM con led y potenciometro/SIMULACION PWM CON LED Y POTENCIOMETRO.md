@@ -9,6 +9,6 @@
 
 #2
 
-* **TINKERCAD:** https://www.tinkercad.com/things/8rnlmpL6iqz-pwm?sharecode=vcCqeLRE78T8fCgCLpd8487-xN2p6NztIAiK221msSU
+* **TINKERCAD:** https://www.tinkercad.com/things/ktspuBfjmNB-pwm-potenciometro
 * **VELXIO:** https://velxio.dev/project/d0542968-de79-436a-a629-0bf415ee6342
 * **WOKWI:** https://wokwi.com/projects/477067322805052417
